@@ -1,0 +1,574 @@
+"user_id","time_UTC","complete","publisher","gender","age","location","survey_weight","answer","response_time"
+"1004246228","2017-05-21 10:31:12","Complete","Mobile App","Male","25-34","US-WEST-MT-Roundup",1.0884159,"I am not likely to vote in this election",14183
+"1009354027","2017-05-23 09:56:18","Complete","News","Male","45-54","US-WEST-MT-Sidney",0.9459779,"Republican Greg Gianforte",24335
+"1009565034","2017-05-21 09:07:10","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Republican Greg Gianforte",13105
+"1011076828","2017-05-23 02:48:11","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Democrat Rob Quist",14435
+"101696176","2017-05-23 09:00:54","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"Republican Greg Gianforte",21987
+"1019518668","2017-05-23 07:33:34","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"I am not likely to vote in this election",8431
+"1027252707","2017-05-22 04:59:28","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"Libertarian Mark Wicks",5013
+"1033969521","2017-05-22 12:15:18","Complete","News","Female","18-24","US-WEST-MT-Billings",1.2314484,"Republican Greg Gianforte",12533
+"1042793290","2017-05-22 13:20:42","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Democrat Rob Quist",18789
+"1043981978","2017-05-23 06:43:07","Complete","News","Female","25-34","US-WEST-MT-Roundup",1.2026517,"Democrat Rob Quist",10084
+"1046518145","2017-05-21 10:51:03","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"Democrat Rob Quist",9005
+"1046890199","2017-05-21 10:51:00","Complete","Mobile App","Male","35-44","US-WEST-MT-Sidney",0.9198625,"Republican Greg Gianforte",7176
+"1051677564","2017-05-22 15:30:58","Complete","News","Male","Unknown","US-WEST-MT-Helena",0,"I am not likely to vote in this election",15019
+"1054918815","2017-05-21 18:05:59","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"Democrat Rob Quist",40059
+"1055865740","2017-05-21 09:04:26","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"Democrat Rob Quist",17755
+"1060464853","2017-05-22 04:45:16","Complete","Mobile App","Female","45-54","US-WEST-MT-Great Falls",1.045264,"Democrat Rob Quist",14289
+"1064382778","2017-05-21 22:24:40","Complete","News","Male","35-44","US-WEST-MT-Sidney",0.9198625,"Democrat Rob Quist",5144
+"1066962409","2017-05-22 01:20:57","Complete","News","Female","45-54","US-WEST-MT",1.045264,"I am not likely to vote in this election",3705
+"1068811004","2017-05-22 00:58:01","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"I am not likely to vote in this election",10517
+"1076591622","2017-05-23 01:27:17","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"I am not likely to vote in this election",33948
+"108501603","2017-05-23 05:34:33","Complete","News","Female","25-34","US-WEST-MT-Helena",1.2026517,"Democrat Rob Quist",6906
+"1091770802","2017-05-23 09:51:59","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"I am not likely to vote in this election",13724
+"109231114","2017-05-21 23:34:52","Complete","Mobile App","Male","55-64","US-WEST-MT-Great Falls",0.8816528,"Democrat Rob Quist",17879
+"1092977655","2017-05-22 01:09:03","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"I am not likely to vote in this election",4620
+"1098795057","2017-05-22 18:02:36","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Democrat Rob Quist",51933
+"1100584595","2017-05-21 23:24:00","Complete","News","Female","65+","US-WEST-MT-Billings",0.8913826,"Republican Greg Gianforte",19186
+"1103547370","2017-05-21 11:00:40","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"I am not likely to vote in this election",17424
+"1104641579","2017-05-21 12:08:27","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",21124
+"110830531","2017-05-21 15:56:47","Complete","News","Female","45-54","US-WEST-MT-Bozeman",1.045264,"Democrat Rob Quist",4359
+"1110339449","2017-05-23 01:28:06","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Libertarian Mark Wicks",16459
+"1111686160","2017-05-23 06:20:44","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"I am not likely to vote in this election",11431
+"1117218530","2017-05-22 18:49:39","Complete","News","Female","25-34","US-WEST-MT-Butte",1.2026517,"I am not likely to vote in this election",12221
+"1119527831","2017-05-22 16:58:48","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Democrat Rob Quist",12446
+"1122740101","2017-05-23 03:37:23","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"Democrat Rob Quist",20047
+"1123730279","2017-05-23 08:39:08","Complete","News","Female","25-34","US-WEST-MT",1.2026517,"Republican Greg Gianforte",8108
+"1126276929","2017-05-21 20:08:15","Complete","News","Female","35-44","US-WEST-MT-Kalispell",1.0164077,"I am not likely to vote in this election",6269
+"1128747338","2017-05-23 04:15:41","Complete","News","Male","65+","US-WEST-MT-Kalispell",0.8067132,"Democrat Rob Quist",7229
+"1132118247","2017-05-23 02:58:01","Complete","News","Male","45-54","US-WEST-MT-Missoula",0.9459779,"I am not likely to vote in this election",4210
+"1132511542","2017-05-22 22:39:52","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"Republican Greg Gianforte",6853
+"1134743399","2017-05-23 06:45:06","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"Democrat Rob Quist",4462
+"1134911713","2017-05-21 22:29:40","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Democrat Rob Quist",12443
+"114415467","2017-05-22 02:43:51","Complete","News","Male","18-24","US-WEST-MT",1.1144773,"I am not likely to vote in this election",1889
+"1144243724","2017-05-22 20:33:37","Complete","News","Male","65+","US-WEST-MT-Laurel",0.8067132,"Democrat Rob Quist",6559
+"1158427899","2017-05-21 08:58:43","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"I am not likely to vote in this election",9909
+"1159567942","2017-05-22 15:41:42","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Republican Greg Gianforte",5420
+"1181274438","2017-05-23 08:51:26","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"Democrat Rob Quist",5284
+"1195289791","2017-05-22 20:03:04","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",21066
+"1195454220","2017-05-22 22:14:59","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"I am not likely to vote in this election",3999
+"1199507852","2017-05-22 18:00:42","Complete","News","Female","45-54","US-WEST-MT-Missoula",1.045264,"Democrat Rob Quist",7480
+"1200031022","2017-05-22 22:12:54","Complete","News","Male","45-54","US-WEST-MT-Butte",0.9459779,"Democrat Rob Quist",5720
+"1203095819","2017-05-22 20:06:55","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Republican Greg Gianforte",6840
+"1204807282","2017-05-22 02:44:59","Complete","News","Female","25-34","US-WEST-MT-Miles City",1.2026517,"I am not likely to vote in this election",5857
+"1214574887","2017-05-23 03:47:56","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"Democrat Rob Quist",18220
+"1220070170","2017-05-21 22:01:58","Complete","News","Female","18-24","US-WEST-MT-Great Falls",1.2314484,"Democrat Rob Quist",4439
+"1225420074","2017-05-21 18:10:33","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"Republican Greg Gianforte",22156
+"1226350187","2017-05-22 02:10:49","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",21533
+"1231505475","2017-05-23 08:30:38","Complete","Mobile App","Female","25-34","US-WEST-MT-Havre",1.2026517,"I am not likely to vote in this election",17397
+"1233700756","2017-05-21 11:08:41","Complete","Mobile App","Male","35-44","US-WEST-MT",0.9198625,"Democrat Rob Quist",32934
+"1240262329","2017-05-21 10:41:49","Complete","Mobile App","Female","25-34","US-WEST-MT-Missoula",1.2026517,"I am not likely to vote in this election",5293
+"1240681306","2017-05-22 16:08:13","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"Democrat Rob Quist",12225
+"1243768551","2017-05-21 17:53:29","Complete","News","Female","55-64","US-WEST-MT-Bozeman",0.9741876,"Democrat Rob Quist",13976
+"1245228301","2017-05-23 05:30:05","Complete","News","Male","65+","US-WEST-MT-Kalispell",0.8067132,"Republican Greg Gianforte",27870
+"1245677304","2017-05-23 08:31:18","Complete","Mobile App","Male","35-44","US-WEST-MT-Billings",0.9198625,"I am not likely to vote in this election",10729
+"124821193","2017-05-22 12:26:24","Complete","News","Female","25-34","US-WEST-MT-Laurel",1.2026517,"Democrat Rob Quist",4700
+"1261482659","2017-05-23 00:33:31","Complete","News","Female","18-24","US-WEST-MT-Kalispell",1.2314484,"Democrat Rob Quist",7194
+"126535318","2017-05-21 10:03:28","Complete","News","Male","18-24","US-WEST-MT-Billings",1.1144773,"I am not likely to vote in this election",4405
+"1268704360","2017-05-23 09:01:58","Complete","News","Female","25-34","US-WEST-MT-Bozeman",1.2026517,"Democrat Rob Quist",3062
+"127135740","2017-05-23 03:01:38","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"Democrat Rob Quist",14362
+"1275552920","2017-05-23 10:01:33","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Republican Greg Gianforte",4141
+"1280523836","2017-05-21 20:35:50","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Republican Greg Gianforte",23677
+"1281706763","2017-05-21 15:10:33","Complete","News","Male","25-34","US-WEST-MT-Missoula",1.0884159,"I am not likely to vote in this election",8434
+"1286941015","2017-05-22 05:52:20","Complete","News","Male","65+","US-WEST-MT-Kalispell",0.8067132,"Democrat Rob Quist",11771
+"1288818572","2017-05-22 16:08:50","Complete","News","Male","55-64","US-WEST-MT-Great Falls",0.8816528,"Republican Greg Gianforte",13236
+"1290785746","2017-05-21 08:24:55","Complete","News","Female","45-54","US-WEST-MT-Great Falls",1.045264,"I am not likely to vote in this election",21293
+"1293450138","2017-05-22 05:41:17","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"Democrat Rob Quist",8285
+"1295975126","2017-05-23 01:09:32","Complete","News","Female","55-64","US-WEST-MT-Havre",0.9741876,"Democrat Rob Quist",11465
+"1311448185","2017-05-21 15:10:35","Complete","News","Female","55-64","US-WEST-MT-Kalispell",0.9741876,"Democrat Rob Quist",42333
+"1315284124","2017-05-22 02:09:06","Complete","News","Female","25-34","US-WEST-MT",1.2026517,"Democrat Rob Quist",2837
+"1316357169","2017-05-21 21:38:35","Complete","News","Male","18-24","US-WEST-MT-Missoula",1.1144773,"Democrat Rob Quist",16366
+"1320366040","2017-05-23 08:34:37","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"I am not likely to vote in this election",4864
+"1326422985","2017-05-22 16:34:32","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"I am not likely to vote in this election",16092
+"132984421","2017-05-21 15:11:42","Complete","Mobile App","Male","55-64","US-WEST-MT",0.8816528,"Democrat Rob Quist",6358
+"1333174596","2017-05-22 19:26:09","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",35150
+"1334732846","2017-05-22 11:44:07","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",5198
+"1337857531","2017-05-22 04:09:37","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"I am not likely to vote in this election",8844
+"1342210447","2017-05-22 14:19:11","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"I am not likely to vote in this election",16416
+"1345378341","2017-05-23 07:19:49","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",10420
+"1350510597","2017-05-21 10:51:14","Complete","Mobile App","Male","25-34","US-WEST-MT-Helena",1.0884159,"I am not likely to vote in this election",15088
+"1352815440","2017-05-22 16:55:44","Complete","News","Female","18-24","US-WEST-MT",1.2314484,"I am not likely to vote in this election",24140
+"1354619156","2017-05-22 03:53:48","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"Republican Greg Gianforte",28871
+"1359213924","2017-05-21 16:03:21","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Republican Greg Gianforte",5242
+"1362671333","2017-05-22 10:45:36","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"Democrat Rob Quist",14775
+"1364797224","2017-05-22 17:35:40","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",23048
+"137056382","2017-05-23 06:01:29","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"I am not likely to vote in this election",8646
+"137071633","2017-05-22 12:28:35","Complete","News","Female","65+","US-WEST-MT-Billings",0.8913826,"Democrat Rob Quist",12829
+"1375079522","2017-05-22 15:02:42","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"Republican Greg Gianforte",5397
+"1379222456","2017-05-22 11:32:08","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"I am not likely to vote in this election",3884
+"1381335391","2017-05-22 20:37:02","Complete","News","Female","25-34","US-WEST-MT-Butte",1.2026517,"Republican Greg Gianforte",3712
+"1381714607","2017-05-21 18:32:35","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",10677
+"1383771226","2017-05-23 08:52:03","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"I am not likely to vote in this election",57373
+"1385110039","2017-05-22 02:18:34","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"Republican Greg Gianforte",4353
+"1389334853","2017-05-23 11:45:06","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"Republican Greg Gianforte",12433
+"1391756835","2017-05-23 10:59:49","Complete","News","Male","45-54","US-WEST-MT-Bozeman",0.9459779,"Republican Greg Gianforte",7034
+"1392687019","2017-05-22 04:31:25","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",14685
+"1392912942","2017-05-23 08:32:10","Complete","Mobile App","Male","55-64","US-WEST-MT",0.8816528,"Libertarian Mark Wicks",7399
+"1393751508","2017-05-23 01:06:53","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"I am not likely to vote in this election",10458
+"1394354307","2017-05-22 16:16:37","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",9572
+"1398602597","2017-05-21 14:53:00","Complete","News","Female","55-64","US-WEST-MT-Billings",0.9741876,"Libertarian Mark Wicks",17839
+"1409994714","2017-05-22 15:33:10","Complete","News","Male","65+","US-WEST-MT-Bozeman",0.8067132,"I am not likely to vote in this election",6075
+"1410634747","2017-05-21 22:46:52","Complete","News","Female","18-24","US-WEST-MT-Billings",1.2314484,"Democrat Rob Quist",2939
+"1411525679","2017-05-21 09:21:54","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",7958
+"1414475241","2017-05-23 01:13:06","Complete","News","Female","25-34","US-WEST-MT-Helena",1.2026517,"Democrat Rob Quist",9521
+"1419771490","2017-05-22 22:34:54","Complete","News","Male","35-44","US-WEST-MT-Kalispell",0.9198625,"Democrat Rob Quist",9137
+"1429608243","2017-05-21 10:31:52","Complete","Mobile App","Female","65+","US-WEST-MT-Kalispell",0.8913826,"I am not likely to vote in this election",27325
+"1439087313","2017-05-22 01:29:57","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"I am not likely to vote in this election",24804
+"144103107","2017-05-21 17:37:25","Complete","News","Male","25-34","US-WEST-MT-Helena",1.0884159,"Democrat Rob Quist",4858
+"144350726","2017-05-21 16:03:17","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Republican Greg Gianforte",34157
+"144924251","2017-05-23 00:49:50","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"I am not likely to vote in this election",9765
+"145479872","2017-05-22 22:53:02","Complete","News","Female","18-24","US-WEST-MT-Missoula",1.2314484,"Democrat Rob Quist",5284
+"1456265361","2017-05-23 10:26:42","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Libertarian Mark Wicks",3355
+"1457801288","2017-05-22 02:48:16","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Republican Greg Gianforte",6304
+"1459663270","2017-05-21 11:47:02","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Democrat Rob Quist",10344
+"1461501068","2017-05-22 10:40:16","Complete","News","Male","55-64","US-WEST-MT-Billings",0.8816528,"I am not likely to vote in this election",5447
+"1463754860","2017-05-21 22:06:00","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Republican Greg Gianforte",5486
+"1467570345","2017-05-22 13:29:38","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"I am not likely to vote in this election",1208
+"1467788693","2017-05-23 00:38:00","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"Republican Greg Gianforte",6203
+"1468846816","2017-05-21 15:32:58","Complete","News","Female","45-54","US-WEST-MT",1.045264,"I am not likely to vote in this election",10447
+"1473025371","2017-05-21 19:38:16","Complete","News","Female","55-64","US-WEST-MT-Bozeman",0.9741876,"Democrat Rob Quist",11085
+"1474446626","2017-05-22 04:02:46","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"I am not likely to vote in this election",5524
+"1478807794","2017-05-23 10:16:23","Complete","News","Female","45-54","US-WEST-MT-Missoula",1.045264,"Democrat Rob Quist",52691
+"1479458569","2017-05-22 16:54:03","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"Republican Greg Gianforte",7107
+"1481966186","2017-05-22 22:16:25","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"Democrat Rob Quist",14769
+"1483676606","2017-05-21 19:27:32","Complete","News","Male","55-64","US-WEST-MT-Helena",0.8816528,"Republican Greg Gianforte",7435
+"1484002791","2017-05-22 00:45:52","Complete","News","Female","45-54","US-WEST-MT-Sidney",1.045264,"Republican Greg Gianforte",8561
+"1484701648","2017-05-23 07:01:48","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Republican Greg Gianforte",4263
+"1492981036","2017-05-23 01:36:26","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Republican Greg Gianforte",10865
+"1493626664","2017-05-22 21:30:54","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Republican Greg Gianforte",15362
+"1494281054","2017-05-22 18:33:01","Complete","News","Female","35-44","US-WEST-MT-Havre",1.0164077,"I am not likely to vote in this election",7646
+"1499896597","2017-05-21 10:41:54","Complete","Mobile App","Female","25-34","US-WEST-MT-Great Falls",1.2026517,"I am not likely to vote in this election",9108
+"1500602548","2017-05-22 06:35:35","Complete","News","Female","65+","US-WEST-MT-Bozeman",0.8913826,"Republican Greg Gianforte",6341
+"1504005497","2017-05-22 03:28:31","Complete","News","Female","35-44","US-WEST-MT-Glendive",1.0164077,"I am not likely to vote in this election",2790
+"1507211138","2017-05-22 17:36:05","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"Republican Greg Gianforte",2842
+"1507866321","2017-05-22 11:46:08","Complete","News","Male","45-54","US-WEST-MT-Butte",0.9459779,"Republican Greg Gianforte",23368
+"1511669160","2017-05-21 23:29:59","Complete","Mobile App","Female","35-44","US-WEST-MT",1.0164077,"Democrat Rob Quist",11643
+"1513176590","2017-05-22 04:27:44","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Democrat Rob Quist",5674
+"1515884952","2017-05-21 14:31:31","Complete","Mobile App","Female","45-54","US-WEST-MT-Sidney",1.045264,"Republican Greg Gianforte",15239
+"1517723649","2017-05-21 16:33:59","Complete","News","Female","45-54","US-WEST-MT",1.045264,"I am not likely to vote in this election",6132
+"1521074645","2017-05-21 08:42:16","Complete","News","Male","55-64","US-WEST-MT-Butte",0.8816528,"Democrat Rob Quist",4459
+"1522382583","2017-05-21 12:08:19","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Republican Greg Gianforte",1870662
+"1524826397","2017-05-23 01:15:32","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",10239
+"153133697","2017-05-21 16:05:22","Complete","News","Female","35-44","US-WEST-MT-Butte",1.0164077,"I am not likely to vote in this election",8685
+"1534240398","2017-05-21 15:09:48","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Democrat Rob Quist",30283
+"153532995","2017-05-23 10:04:02","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"I am not likely to vote in this election",13141
+"1535434750","2017-05-21 12:28:06","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"Libertarian Mark Wicks",5251
+"1535852935","2017-05-21 14:17:42","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"I am not likely to vote in this election",25046
+"1543376098","2017-05-22 21:34:57","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"I am not likely to vote in this election",20870
+"1544232864","2017-05-23 02:04:40","Complete","News","Female","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",15607
+"1553131987","2017-05-23 10:57:16","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",19190
+"1553185470","2017-05-23 08:44:25","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"I am not likely to vote in this election",25739
+"1563712285","2017-05-23 04:08:24","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"I am not likely to vote in this election",18605
+"1566067520","2017-05-21 12:27:02","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Libertarian Mark Wicks",22412
+"1570932808","2017-05-21 21:23:28","Complete","News","Female","35-44","US-WEST-MT",1.0164077,"Democrat Rob Quist",4311
+"1571313438","2017-05-23 07:33:34","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"I am not likely to vote in this election",4513
+"157165031","2017-05-21 15:09:05","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",8477
+"1571694346","2017-05-21 16:09:23","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Republican Greg Gianforte",8085
+"1574718808","2017-05-21 18:14:02","Complete","Mobile App","Male","35-44","US-WEST-MT",0.9198625,"Democrat Rob Quist",211561
+"1584121075","2017-05-21 08:41:41","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"Democrat Rob Quist",5356
+"1584908133","2017-05-22 21:07:24","Complete","News","Unknown","Unknown","US-WEST-MT-Butte",0,"Democrat Rob Quist",9118
+"1587341159","2017-05-22 03:07:06","Complete","News","Female","35-44","US-WEST-MT-Roundup",1.0164077,"Democrat Rob Quist",9314
+"1589832497","2017-05-21 13:33:17","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Republican Greg Gianforte",13983
+"1595870293","2017-05-22 03:28:18","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",4137
+"159997791","2017-05-22 14:21:23","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Republican Greg Gianforte",6606
+"1603005081","2017-05-23 09:38:42","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",20425
+"1603052713","2017-05-21 11:31:11","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",27061
+"1603125805","2017-05-22 11:39:37","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"I am not likely to vote in this election",14804
+"1603779830","2017-05-23 00:27:11","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"I am not likely to vote in this election",19681
+"1605211490","2017-05-22 12:04:45","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Republican Greg Gianforte",10351
+"1612122629","2017-05-21 12:01:01","Complete","News","Female","25-34","US-WEST-MT-Helena",1.2026517,"I am not likely to vote in this election",6887
+"1612233311","2017-05-21 10:31:50","Complete","Mobile App","Male","45-54","US-WEST-MT-Helena",0.9459779,"I am not likely to vote in this election",11839
+"1617847378","2017-05-22 05:37:25","Complete","News","Male","55-64","US-WEST-MT-Sidney",0.8816528,"I am not likely to vote in this election",11269
+"1623171779","2017-05-23 06:46:23","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"I am not likely to vote in this election",13379
+"1623416139","2017-05-21 08:24:51","Complete","News","Male","45-54","US-WEST-MT-Bozeman",0.9459779,"Republican Greg Gianforte",7520
+"1632822546","2017-05-21 10:51:01","Complete","Mobile App","Male","25-34","US-WEST-MT-Helena",1.0884159,"Democrat Rob Quist",10940
+"1635672923","2017-05-22 04:34:28","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",8035
+"1638156448","2017-05-22 19:07:53","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"Democrat Rob Quist",7727
+"1643852261","2017-05-23 08:27:32","Complete","News","Female","25-34","US-WEST-MT-Great Falls",1.2026517,"Democrat Rob Quist",23333
+"164502553","2017-05-21 15:11:53","Complete","Mobile App","Female","35-44","US-WEST-MT-Billings",1.0164077,"Republican Greg Gianforte",11634
+"1650978784","2017-05-22 14:07:41","Complete","News","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Democrat Rob Quist",9187
+"1651313500","2017-05-22 05:03:29","Complete","News","Male","65+","US-WEST-MT-Miles City",0.8067132,"Democrat Rob Quist",14569
+"1651390135","2017-05-23 10:26:45","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"Libertarian Mark Wicks",1872
+"1652847722","2017-05-21 20:19:21","Complete","News","Female","Unknown","US-WEST-MT-Bozeman",0,"Democrat Rob Quist",15091
+"1655219189","2017-05-22 20:23:07","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"I am not likely to vote in this election",8224
+"1657376439","2017-05-23 07:58:08","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"Democrat Rob Quist",2985
+"1662641666","2017-05-21 14:51:51","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Libertarian Mark Wicks",21660
+"1662740679","2017-05-23 10:56:50","Complete","News","Male","65+","US-WEST-MT",0.8067132,"I am not likely to vote in this election",17861
+"1663412550","2017-05-22 03:10:58","Complete","News","Unknown","Unknown","US-WEST-MT-Sidney",0,"Republican Greg Gianforte",46066
+"1673910003","2017-05-22 19:11:57","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Republican Greg Gianforte",11677
+"167555720","2017-05-21 11:19:02","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Democrat Rob Quist",8272
+"167813946","2017-05-22 13:11:22","Complete","News","Female","35-44","US-WEST-MT-Sidney",1.0164077,"I am not likely to vote in this election",3503
+"168180317","2017-05-21 14:31:12","Complete","Mobile App","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Republican Greg Gianforte",9185
+"168681158","2017-05-21 12:06:10","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Democrat Rob Quist",14026
+"1688372481","2017-05-23 10:47:00","Complete","News","Female","45-54","US-WEST-MT-Missoula",1.045264,"Democrat Rob Quist",28560
+"1689675085","2017-05-21 10:06:46","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"Republican Greg Gianforte",15890
+"1692272207","2017-05-22 02:39:42","Complete","News","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Republican Greg Gianforte",86534
+"1698033542","2017-05-22 17:36:24","Complete","News","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"I am not likely to vote in this election",5923
+"1711214810","2017-05-21 08:37:29","Complete","News","Male","35-44","US-WEST-MT-Missoula",0.9198625,"Libertarian Mark Wicks",13011
+"1714830369","2017-05-22 21:08:45","Complete","News","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Democrat Rob Quist",275172
+"1717404972","2017-05-21 12:41:21","Complete","Mobile App","Male","18-24","US-WEST-MT-Bozeman",1.1144773,"I am not likely to vote in this election",21514
+"1717962504","2017-05-21 10:31:04","Complete","Mobile App","Male","25-34","US-WEST-MT-Laurel",1.0884159,"Republican Greg Gianforte",6160
+"1718537489","2017-05-22 11:36:42","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",18888
+"171889082","2017-05-23 01:07:10","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Republican Greg Gianforte",9292
+"1720434666","2017-05-22 02:57:29","Complete","News","Female","45-54","US-WEST-MT-Glendive",1.045264,"I am not likely to vote in this election",42966
+"1720710648","2017-05-21 10:31:41","Complete","Mobile App","Male","35-44","US-WEST-MT-Billings",0.9198625,"Republican Greg Gianforte",7081
+"1727675212","2017-05-23 07:00:49","Complete","News","Male","65+","US-WEST-MT-Helena",0.8067132,"Libertarian Mark Wicks",33660
+"1728202775","2017-05-21 09:21:03","Complete","News","Female","55-64","US-WEST-MT-Butte",0.9741876,"Democrat Rob Quist",8476
+"1730225069","2017-05-22 01:46:31","Complete","News","Female","65+","US-WEST-MT-Miles City",0.8913826,"I am not likely to vote in this election",20633
+"1732154645","2017-05-21 13:46:08","Complete","News","Male","35-44","US-WEST-MT-Missoula",0.9198625,"Republican Greg Gianforte",4238
+"1736591379","2017-05-22 15:16:22","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Republican Greg Gianforte",7757
+"1740150663","2017-05-21 23:46:50","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Democrat Rob Quist",57659
+"1741789263","2017-05-23 07:17:50","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"Republican Greg Gianforte",12153
+"1742099890","2017-05-21 18:54:15","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"I am not likely to vote in this election",30299
+"1743845484","2017-05-21 10:51:43","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"I am not likely to vote in this election",10206
+"1744419267","2017-05-22 12:37:00","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"Democrat Rob Quist",9257
+"1752571549","2017-05-23 06:39:27","Complete","News","Male","55-64","US-WEST-MT-Great Falls",0.8816528,"Democrat Rob Quist",12436
+"1754322485","2017-05-23 11:13:30","Complete","News","Female","55-64","US-WEST-MT-Billings",0.9741876,"Republican Greg Gianforte",4700
+"1760417433","2017-05-21 11:18:06","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"Democrat Rob Quist",23269
+"176737446","2017-05-21 11:32:06","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"I am not likely to vote in this election",4677
+"1769314992","2017-05-22 15:31:41","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"I am not likely to vote in this election",1570
+"1773251897","2017-05-21 20:45:22","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",24177
+"1774141562","2017-05-22 20:14:50","Complete","News","Female","25-34","US-WEST-MT-Missoula",1.2026517,"I am not likely to vote in this election",5966
+"1777997227","2017-05-21 18:48:53","Complete","News","Female","18-24","US-WEST-MT-Billings",1.2314484,"Republican Greg Gianforte",5691
+"1780516967","2017-05-23 07:16:22","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"Democrat Rob Quist",20186
+"1786260985","2017-05-23 04:16:46","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"I am not likely to vote in this election",3733
+"1795600461","2017-05-23 00:31:37","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",11774
+"179612869","2017-05-22 17:03:15","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Democrat Rob Quist",12641
+"1804413139","2017-05-23 04:00:14","Complete","News","Male","55-64","US-WEST-MT-Helena",0.8816528,"Democrat Rob Quist",12904
+"1815411867","2017-05-21 18:03:11","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"I am not likely to vote in this election",17013
+"1817652882","2017-05-22 21:09:16","Complete","News","Female","45-54","US-WEST-MT-Bozeman",1.045264,"Democrat Rob Quist",6345
+"1820149280","2017-05-22 14:30:47","Complete","News","Female","18-24","US-WEST-MT-Butte",1.2314484,"I am not likely to vote in this election",3379
+"1822358325","2017-05-23 10:01:35","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",12943
+"1823227882","2017-05-21 15:30:57","Complete","Mobile App","Female","18-24","US-WEST-MT-Missoula",1.2314484,"I am not likely to vote in this election",12321
+"1826934477","2017-05-22 21:31:33","Complete","News","Female","18-24","US-WEST-MT-Great Falls",1.2314484,"Republican Greg Gianforte",9100
+"1827762524","2017-05-22 01:37:03","Complete","News","Male","18-24","US-WEST-MT-Butte",1.1144773,"I am not likely to vote in this election",11124
+"1831496980","2017-05-21 21:00:35","Complete","News","Male","55-64","US-WEST-MT-Great Falls",0.8816528,"Democrat Rob Quist",19896
+"1838055659","2017-05-23 07:27:32","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Republican Greg Gianforte",11070
+"1838821510","2017-05-23 00:27:04","Complete","News","Female","18-24","US-WEST-MT-Missoula",1.2314484,"I am not likely to vote in this election",12969
+"1839245825","2017-05-22 20:51:06","Complete","News","Female","55-64","US-WEST-MT-Helena",0.9741876,"Democrat Rob Quist",4197
+"1844008561","2017-05-22 08:02:56","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Libertarian Mark Wicks",22308
+"1853851612","2017-05-23 11:11:40","Complete","News","Male","45-54","US-WEST-MT-Missoula",0.9459779,"Republican Greg Gianforte",22661
+"1859790934","2017-05-23 06:09:30","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Republican Greg Gianforte",24653
+"1862351127","2017-05-22 13:29:37","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"I am not likely to vote in this election",4304
+"1868188685","2017-05-22 02:06:15","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"I am not likely to vote in this election",15160
+"1872623552","2017-05-21 13:31:16","Complete","Mobile App","Male","18-24","US-WEST-MT-Laurel",1.1144773,"I am not likely to vote in this election",30786
+"1879444983","2017-05-23 06:32:24","Complete","News","Female","55-64","US-WEST-MT-Great Falls",0.9741876,"Democrat Rob Quist",29148
+"188911821","2017-05-22 01:46:29","Complete","News","Unknown","Unknown","US-WEST-MT-Laurel",0,"I am not likely to vote in this election",12384
+"1894525866","2017-05-22 05:41:16","Complete","News","Female","65+","US-WEST-MT-Miles City",0.8913826,"Democrat Rob Quist",31968
+"1897810939","2017-05-22 14:21:10","Complete","News","Male","35-44","US-WEST-MT-Kalispell",0.9198625,"Democrat Rob Quist",9962
+"190250267","2017-05-23 08:32:00","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"Democrat Rob Quist",11481
+"190330951","2017-05-21 20:40:13","Complete","News","Male","35-44","US-WEST-MT-Roundup",0.9198625,"Democrat Rob Quist",23087
+"1907579121","2017-05-23 09:07:48","Complete","News","Female","65+","US-WEST-MT-Great Falls",0.8913826,"Democrat Rob Quist",11692
+"1912914263","2017-05-23 01:17:38","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Republican Greg Gianforte",13333
+"1930733830","2017-05-22 17:27:49","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Democrat Rob Quist",12451
+"1936519439","2017-05-23 10:16:06","Complete","News","Female","55-64","US-WEST-MT-Butte",0.9741876,"Republican Greg Gianforte",6019
+"1938878032","2017-05-21 10:51:23","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",20314
+"1940788621","2017-05-21 11:31:01","Complete","Arts & Entertainment","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Democrat Rob Quist",9416
+"1941266565","2017-05-23 07:11:22","Complete","News","Female","55-64","US-WEST-MT-Missoula",0.9741876,"I am not likely to vote in this election",31113
+"194226712","2017-05-21 10:51:11","Complete","Mobile App","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",37634
+"1942334213","2017-05-22 11:46:06","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"Republican Greg Gianforte",2621
+"1942899198","2017-05-22 23:25:55","Complete","News","Female","18-24","US-WEST-MT-Billings",1.2314484,"I am not likely to vote in this election",1915
+"1943666550","2017-05-23 10:37:11","Complete","News","Unknown","Unknown","US-WEST-MT-Butte",0,"I am not likely to vote in this election",12794
+"1945682517","2017-05-23 09:54:54","Complete","News","Female","45-54","US-WEST-MT-Missoula",1.045264,"Democrat Rob Quist",10940
+"1950117269","2017-05-22 18:15:38","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",5435
+"1951573261","2017-05-23 08:32:14","Complete","Mobile App","Male","25-34","US-WEST-MT-Billings",1.0884159,"Republican Greg Gianforte",14207
+"195166318","2017-05-22 16:21:45","Complete","News","Unknown","Unknown","US-WEST-MT-Roundup",0,"Republican Greg Gianforte",2722
+"1956289217","2017-05-23 08:31:59","Complete","Mobile App","Female","55-64","US-WEST-MT-Great Falls",0.9741876,"I am not likely to vote in this election",12214
+"1958791127","2017-05-22 23:35:57","Complete","News","Female","18-24","US-WEST-MT-Helena",1.2314484,"Democrat Rob Quist",14092
+"1961531803","2017-05-23 02:36:18","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Democrat Rob Quist",16265
+"1973289581","2017-05-21 22:02:54","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Democrat Rob Quist",11590
+"1974929220","2017-05-22 15:33:51","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",31915
+"1980950107","2017-05-21 22:58:18","Complete","Mobile App","Female","35-44","US-WEST-MT-Havre",1.0164077,"Democrat Rob Quist",10073
+"1984199803","2017-05-21 18:01:10","Complete","News","Male","35-44","US-WEST-MT-Miles City",0.9198625,"I am not likely to vote in this election",8453
+"1990852582","2017-05-23 04:16:00","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",11572
+"1998056688","2017-05-22 11:21:59","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Democrat Rob Quist",11087
+"1999335232","2017-05-22 01:48:06","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"Democrat Rob Quist",5930
+"2001418486","2017-05-22 04:21:34","Complete","News","Female","55-64","US-WEST-MT-Glendive",0.9741876,"Republican Greg Gianforte",36501
+"2001699835","2017-05-21 23:48:40","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"I am not likely to vote in this election",81691
+"2006885331","2017-05-23 05:40:18","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",8853
+"2009073189","2017-05-23 10:44:34","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",5424
+"2011285154","2017-05-21 09:14:54","Complete","News","Male","35-44","US-WEST-MT-Missoula",0.9198625,"Democrat Rob Quist",15880
+"2013657622","2017-05-23 01:22:20","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Democrat Rob Quist",6218
+"2021286634","2017-05-23 11:18:05","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Republican Greg Gianforte",15081
+"2027471236","2017-05-21 10:50:58","Complete","Mobile App","Male","25-34","US-WEST-MT",1.0884159,"Democrat Rob Quist",13017
+"2030277122","2017-05-21 17:30:41","Complete","Mobile App","Female","25-34","US-WEST-MT-Great Falls",1.2026517,"I am not likely to vote in this election",4251
+"2032367924","2017-05-22 11:48:08","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"Republican Greg Gianforte",8495
+"203335557","2017-05-22 05:09:41","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"I am not likely to vote in this election",8631
+"203499747","2017-05-22 07:52:36","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"I am not likely to vote in this election",14579
+"2035165865","2017-05-21 18:52:33","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Republican Greg Gianforte",14018
+"2035233470","2017-05-22 01:49:05","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Republican Greg Gianforte",10228
+"2037911245","2017-05-22 17:42:10","Complete","News","Female","18-24","US-WEST-MT",1.2314484,"Democrat Rob Quist",1940
+"2041405953","2017-05-21 15:18:14","Complete","News","Male","65+","US-WEST-MT-Bozeman",0.8067132,"Democrat Rob Quist",12420
+"2041826113","2017-05-21 16:07:08","Complete","News","Male","55-64","US-WEST-MT-Bozeman",0.8816528,"Democrat Rob Quist",31219
+"2052071102","2017-05-22 20:32:27","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"Democrat Rob Quist",15240
+"2054114062","2017-05-22 11:37:02","Complete","News","Female","18-24","US-WEST-MT-Butte",1.2314484,"Democrat Rob Quist",6622
+"2057442384","2017-05-22 12:25:37","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Democrat Rob Quist",2473
+"2063752810","2017-05-23 11:33:48","Complete","News","Male","35-44","US-WEST-MT-Butte",0.9198625,"Democrat Rob Quist",21204
+"2068387858","2017-05-22 16:37:19","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",21318
+"2069615695","2017-05-23 07:10:23","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Democrat Rob Quist",14873
+"2071576915","2017-05-23 08:52:14","Complete","News","Female","55-64","US-WEST-MT-Butte",0.9741876,"I am not likely to vote in this election",12707
+"2072256817","2017-05-21 12:00:42","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Republican Greg Gianforte",49409
+"2077958902","2017-05-22 18:25:17","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Democrat Rob Quist",23336
+"2088187039","2017-05-21 17:10:30","Complete","Mobile App","Male","25-34","US-WEST-MT-Kalispell",1.0884159,"I am not likely to vote in this election",7945
+"2089112977","2017-05-21 20:02:20","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"Republican Greg Gianforte",11552
+"2093489932","2017-05-21 18:16:17","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Republican Greg Gianforte",16316
+"2095693947","2017-05-21 16:20:41","Complete","Mobile App","Male","35-44","US-WEST-MT-Sidney",0.9198625,"Republican Greg Gianforte",22748
+"2097451438","2017-05-21 23:05:48","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Republican Greg Gianforte",8039
+"2098205403","2017-05-22 03:03:36","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Democrat Rob Quist",14481
+"2099085381","2017-05-22 04:11:38","Complete","News","Male","35-44","US-WEST-MT-Sidney",0.9198625,"Democrat Rob Quist",11521
+"2099650915","2017-05-22 14:09:08","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"I am not likely to vote in this election",4534
+"210555294","2017-05-22 02:08:33","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"I am not likely to vote in this election",9473
+"2106840769","2017-05-22 16:01:10","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",15267
+"2118455121","2017-05-23 07:25:30","Complete","News","Female","25-34","US-WEST-MT-Missoula",1.2026517,"Democrat Rob Quist",2617
+"2119186700","2017-05-23 10:44:14","Complete","News","Female","55-64","US-WEST-MT-Bozeman",0.9741876,"Republican Greg Gianforte",11517
+"2119940793","2017-05-23 10:01:17","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",15215
+"2128386762","2017-05-23 10:28:31","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Democrat Rob Quist",24402
+"213111503","2017-05-23 03:59:33","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",27740
+"2133823529","2017-05-22 05:07:20","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"I am not likely to vote in this election",28704
+"2135311347","2017-05-21 19:06:43","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"Democrat Rob Quist",18275
+"2138283390","2017-05-22 11:02:56","Complete","News","Unknown","Unknown","US-WEST-MT-Laurel",0,"Democrat Rob Quist",19526
+"2139702727","2017-05-21 21:26:54","Complete","News","Male","55-64","US-WEST-MT-Billings",0.8816528,"Republican Greg Gianforte",7002
+"2140563539","2017-05-21 18:37:50","Complete","News","Female","45-54","US-WEST-MT-Miles City",1.045264,"I am not likely to vote in this election",18077
+"216651669","2017-05-23 00:09:06","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",3733
+"216741670","2017-05-23 06:39:02","Complete","News","Unknown","Unknown","US-WEST-MT-Kalispell",0,"I am not likely to vote in this election",21880
+"217613289","2017-05-21 23:01:29","Complete","News","Female","55-64","US-WEST-MT-Billings",0.9741876,"Republican Greg Gianforte",8890
+"218090375","2017-05-21 10:26:49","Complete","News","Female","65+","US-WEST-MT-Bozeman",0.8913826,"I am not likely to vote in this election",18175
+"220009387","2017-05-22 20:17:19","Complete","News","Male","45-54","US-WEST-MT-Missoula",0.9459779,"Libertarian Mark Wicks",9178
+"220064830","2017-05-22 21:09:58","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Democrat Rob Quist",13438
+"22234220","2017-05-23 00:35:04","Complete","News","Male","55-64","US-WEST-MT-Billings",0.8816528,"Democrat Rob Quist",15710
+"238703453","2017-05-22 20:00:59","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"Democrat Rob Quist",7046
+"243339907","2017-05-21 18:18:41","Complete","News","Female","55-64","US-WEST-MT-Bozeman",0.9741876,"Republican Greg Gianforte",31315
+"250209446","2017-05-22 15:51:55","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"Libertarian Mark Wicks",2547
+"257641307","2017-05-22 10:48:21","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",3105
+"262804565","2017-05-21 15:42:14","Complete","Mobile App","Male","18-24","US-WEST-MT-Great Falls",1.1144773,"Democrat Rob Quist",14141
+"26455986","2017-05-21 10:31:15","Complete","Mobile App","Male","25-34","US-WEST-MT",1.0884159,"Republican Greg Gianforte",3963
+"265309533","2017-05-22 22:16:19","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"Democrat Rob Quist",7014
+"26556345","2017-05-22 20:33:16","Complete","News","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"Democrat Rob Quist",8241
+"272480283","2017-05-21 15:12:06","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"I am not likely to vote in this election",9618
+"273835247","2017-05-22 16:42:13","Complete","News","Female","18-24","US-WEST-MT-Havre",1.2314484,"Republican Greg Gianforte",5381
+"274597441","2017-05-22 04:54:52","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Democrat Rob Quist",6462
+"278184908","2017-05-21 11:07:07","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",14056
+"289077012","2017-05-23 10:44:57","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",2501
+"291124277","2017-05-21 16:23:57","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Democrat Rob Quist",8842
+"291150378","2017-05-21 16:20:52","Complete","Mobile App","Male","25-34","US-WEST-MT",1.0884159,"Republican Greg Gianforte",5024
+"296293071","2017-05-21 16:39:23","Complete","News","Female","18-24","US-WEST-MT",1.2314484,"I am not likely to vote in this election",5776
+"297286178","2017-05-23 10:51:15","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"Republican Greg Gianforte",9010
+"298507242","2017-05-22 09:18:18","Complete","News","Female","25-34","US-WEST-MT",1.2026517,"I am not likely to vote in this election",13805
+"300321814","2017-05-22 20:10:17","Complete","News","Female","65+","US-WEST-MT-Butte",0.8913826,"Democrat Rob Quist",9671
+"306595920","2017-05-22 16:15:27","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Democrat Rob Quist",21607
+"310582811","2017-05-22 18:07:25","Complete","News","Male","65+","US-WEST-MT",0.8067132,"I am not likely to vote in this election",19796
+"311372704","2017-05-21 15:48:00","Complete","News","Unknown","Unknown","US-WEST-MT-Miles City",0,"Democrat Rob Quist",9022
+"324452294","2017-05-21 22:40:21","Complete","News","Female","45-54","US-WEST-MT-Missoula",1.045264,"Democrat Rob Quist",15988
+"324510605","2017-05-22 04:53:58","Complete","News","Female","35-44","US-WEST-MT-Butte",1.0164077,"I am not likely to vote in this election",4023
+"325048515","2017-05-21 23:51:11","Complete","News","Male","18-24","US-WEST-MT-Billings",1.1144773,"Democrat Rob Quist",2598
+"325295892","2017-05-21 11:56:16","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Republican Greg Gianforte",3936
+"328504253","2017-05-22 02:12:00","Complete","News","Female","65+","US-WEST-MT-Laurel",0.8913826,"Republican Greg Gianforte",13595
+"331975918","2017-05-22 18:09:45","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",12232
+"33204936","2017-05-22 18:20:34","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Libertarian Mark Wicks",3512
+"348006133","2017-05-22 11:15:49","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Democrat Rob Quist",13105
+"352131240","2017-05-21 19:27:12","Complete","Mobile App","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",8813
+"353404948","2017-05-21 14:31:35","Complete","Mobile App","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",18850
+"35639636","2017-05-21 21:02:58","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"I am not likely to vote in this election",8521
+"358492966","2017-05-21 10:30:53","Complete","Mobile App","Male","18-24","US-WEST-MT-Bozeman",1.1144773,"Republican Greg Gianforte",11191
+"359154233","2017-05-23 11:38:37","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"Republican Greg Gianforte",4804
+"360465594","2017-05-23 01:56:49","Complete","News","Female","65+","US-WEST-MT-Helena",0.8913826,"Democrat Rob Quist",9093
+"361725196","2017-05-22 18:48:40","Complete","News","Male","35-44","US-WEST-MT-Missoula",0.9198625,"I am not likely to vote in this election",9827
+"363554164","2017-05-22 15:31:49","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",7051
+"368832936","2017-05-23 01:55:24","Complete","News","Female","25-34","US-WEST-MT-Helena",1.2026517,"I am not likely to vote in this election",10024
+"370455078","2017-05-21 10:30:43","Complete","Mobile App","Male","18-24","US-WEST-MT-Bozeman",1.1144773,"Democrat Rob Quist",2558
+"375493224","2017-05-22 02:52:02","Complete","News","Female","18-24","US-WEST-MT-Missoula",1.2314484,"Democrat Rob Quist",14584
+"379817097","2017-05-22 19:28:52","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"Democrat Rob Quist",7288
+"383242755","2017-05-21 07:05:49","Complete","News","Female","35-44","US-WEST-MT-Kalispell",1.0164077,"I am not likely to vote in this election",2983
+"385335054","2017-05-21 12:23:59","Complete","News","Male","65+","US-WEST-MT-Helena",0.8067132,"Democrat Rob Quist",13188
+"39286271","2017-05-22 00:06:49","Complete","News","Female","25-34","US-WEST-MT-Helena",1.2026517,"I am not likely to vote in this election",5815
+"394362782","2017-05-22 16:34:49","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"I am not likely to vote in this election",3744
+"394688498","2017-05-21 08:53:15","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Democrat Rob Quist",7585
+"397444323","2017-05-21 12:43:22","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Democrat Rob Quist",23732
+"398188594","2017-05-22 15:38:54","Complete","News","Female","18-24","US-WEST-MT",1.2314484,"I am not likely to vote in this election",10031
+"399467898","2017-05-21 11:11:04","Complete","Mobile App","Male","18-24","US-WEST-MT-Butte",1.1144773,"I am not likely to vote in this election",22393
+"401288023","2017-05-23 02:24:26","Complete","News","Female","55-64","US-WEST-MT-Helena",0.9741876,"Libertarian Mark Wicks",11359
+"40868518","2017-05-21 12:50:37","Complete","Mobile App","Male","25-34","US-WEST-MT",1.0884159,"Democrat Rob Quist",19839
+"412399779","2017-05-21 14:54:00","Complete","News","Female","35-44","US-WEST-MT-Sidney",1.0164077,"I am not likely to vote in this election",2384
+"415426735","2017-05-21 13:55:59","Complete","News","Female","35-44","US-WEST-MT-Billings",1.0164077,"Libertarian Mark Wicks",8957
+"416251675","2017-05-23 02:37:01","Complete","News","Female","25-34","US-WEST-MT",1.2026517,"Republican Greg Gianforte",6541
+"418741695","2017-05-22 13:37:42","Complete","News","Male","18-24","US-WEST-MT-Havre",1.1144773,"Democrat Rob Quist",4625
+"429125785","2017-05-21 10:32:29","Complete","Mobile App","Male","18-24","US-WEST-MT-Billings",1.1144773,"I am not likely to vote in this election",12343
+"431319675","2017-05-22 03:34:25","Complete","News","Male","18-24","US-WEST-MT",1.1144773,"I am not likely to vote in this election",6610
+"435473214","2017-05-21 22:23:17","Complete","News","Female","35-44","US-WEST-MT-Helena",1.0164077,"Democrat Rob Quist",18457
+"437330479","2017-05-23 08:43:35","Complete","News","Female","25-34","US-WEST-MT-Bozeman",1.2026517,"Republican Greg Gianforte",6776
+"439081495","2017-05-22 05:48:01","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"I am not likely to vote in this election",28915
+"439977961","2017-05-22 14:31:22","Complete","News","Male","65+","US-WEST-MT-Bozeman",0.8067132,"Democrat Rob Quist",6041
+"447043989","2017-05-23 10:15:15","Complete","News","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"I am not likely to vote in this election",5148
+"449035280","2017-05-23 04:59:13","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Republican Greg Gianforte",14983
+"452074279","2017-05-22 15:02:18","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"Republican Greg Gianforte",19032
+"454336674","2017-05-21 19:42:15","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"Republican Greg Gianforte",22000
+"459526801","2017-05-22 03:51:39","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"Republican Greg Gianforte",8931
+"461082084","2017-05-21 12:05:11","Complete","News","Female","18-24","US-WEST-MT-Missoula",1.2314484,"Democrat Rob Quist",75021
+"464695327","2017-05-23 08:32:37","Complete","Mobile App","Female","55-64","US-WEST-MT-Billings",0.9741876,"I am not likely to vote in this election",53032
+"465039996","2017-05-22 01:06:48","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Republican Greg Gianforte",26678
+"467772938","2017-05-22 15:59:47","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Democrat Rob Quist",11001
+"47290162","2017-05-22 00:36:36","Complete","News","Male","18-24","US-WEST-MT",1.1144773,"Democrat Rob Quist",4874
+"473514710","2017-05-21 17:36:32","Complete","News","Female","45-54","US-WEST-MT",1.045264,"I am not likely to vote in this election",4867
+"476237124","2017-05-22 15:25:48","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Republican Greg Gianforte",5736
+"477369024","2017-05-23 00:50:42","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Democrat Rob Quist",8142
+"479589514","2017-05-22 21:37:23","Complete","News","Male","45-54","US-WEST-MT-Butte",0.9459779,"Republican Greg Gianforte",9177
+"482844182","2017-05-23 09:36:34","Complete","News","Male","55-64","US-WEST-MT-Billings",0.8816528,"I am not likely to vote in this election",36062
+"48824520","2017-05-22 17:31:13","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",11048
+"48826290","2017-05-21 13:56:00","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"Libertarian Mark Wicks",2580
+"504479803","2017-05-22 01:57:15","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"I am not likely to vote in this election",12633
+"505013411","2017-05-21 10:35:23","Complete","Mobile App","Female","55-64","US-WEST-MT",0.9741876,"Libertarian Mark Wicks",15420
+"508793146","2017-05-22 20:26:09","Complete","News","Unknown","Unknown","US-WEST-MT-Butte",0,"Republican Greg Gianforte",13873
+"510505580","2017-05-21 11:10:58","Complete","Mobile App","Female","35-44","US-WEST-MT",1.0164077,"Republican Greg Gianforte",21732
+"510870812","2017-05-21 12:54:10","Complete","News","Unknown","Unknown","US-WEST-MT-Sidney",0,"I am not likely to vote in this election",12339
+"514482599","2017-05-22 10:37:56","Complete","News","Female","25-34","US-WEST-MT-Missoula",1.2026517,"Democrat Rob Quist",6050
+"516390432","2017-05-23 00:05:00","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Democrat Rob Quist",12088
+"518580661","2017-05-21 21:04:10","Complete","News","Unknown","Unknown","US-WEST-MT-Bozeman",0,"I am not likely to vote in this election",19908
+"518684004","2017-05-23 06:38:35","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"Democrat Rob Quist",4703
+"523037623","2017-05-21 21:44:44","Complete","News","Unknown","Unknown","US-WEST-MT-Missoula",0,"Republican Greg Gianforte",13921
+"528990745","2017-05-23 07:03:14","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Republican Greg Gianforte",43610
+"531876428","2017-05-21 22:52:22","Complete","Mobile App","Male","18-24","US-WEST-MT-Bozeman",1.1144773,"Libertarian Mark Wicks",22610
+"533731709","2017-05-21 10:31:20","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"Republican Greg Gianforte",9954
+"534365870","2017-05-23 07:18:03","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"I am not likely to vote in this election",18078
+"535342873","2017-05-23 09:57:36","Complete","News","Male","55-64","US-WEST-MT-Bozeman",0.8816528,"Republican Greg Gianforte",11968
+"536731169","2017-05-22 00:59:15","Complete","News","Male","18-24","US-WEST-MT-Butte",1.1144773,"Democrat Rob Quist",6121
+"538303477","2017-05-21 18:28:16","Complete","News","Female","25-34","US-WEST-MT-Bozeman",1.2026517,"Democrat Rob Quist",4840
+"538700318","2017-05-22 13:56:00","Complete","News","Unknown","Unknown","US-WEST-MT-Butte",0,"I am not likely to vote in this election",11974
+"540672578","2017-05-21 23:23:50","Complete","News","Male","25-34","US-WEST-MT-Helena",1.0884159,"I am not likely to vote in this election",8389
+"546818383","2017-05-22 22:33:55","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"I am not likely to vote in this election",4230
+"551523062","2017-05-21 13:52:25","Complete","Mobile App","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"Democrat Rob Quist",18590
+"552442100","2017-05-23 08:31:55","Complete","Mobile App","Male","45-54","US-WEST-MT-Billings",0.9459779,"Republican Greg Gianforte",14797
+"561283430","2017-05-21 18:27:34","Complete","News","Female","45-54","US-WEST-MT-Sidney",1.045264,"Republican Greg Gianforte",29866
+"562289610","2017-05-23 01:15:20","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"Republican Greg Gianforte",4467
+"566249959","2017-05-21 12:44:34","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"I am not likely to vote in this election",3167
+"568780649","2017-05-22 01:48:01","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Republican Greg Gianforte",11566
+"568917495","2017-05-22 19:12:29","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",13644
+"5693009","2017-05-21 10:31:02","Complete","Mobile App","Male","18-24","US-WEST-MT",1.1144773,"Democrat Rob Quist",10326
+"570312091","2017-05-23 08:58:24","Complete","News","Male","45-54","US-WEST-MT",0.9459779,"Republican Greg Gianforte",8233
+"572757947","2017-05-22 16:34:22","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"I am not likely to vote in this election",3518
+"573859374","2017-05-21 08:29:06","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",19737
+"574834624","2017-05-21 12:28:09","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Democrat Rob Quist",17127
+"575169482","2017-05-22 12:54:02","Complete","News","Female","18-24","US-WEST-MT-Billings",1.2314484,"I am not likely to vote in this election",8513
+"582689742","2017-05-22 02:09:59","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",32752
+"583968909","2017-05-22 15:36:09","Complete","News","Female","55-64","US-WEST-MT-Bozeman",0.9741876,"Republican Greg Gianforte",6402
+"587504519","2017-05-23 00:26:52","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"Democrat Rob Quist",43117
+"589785593","2017-05-22 12:05:03","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"I am not likely to vote in this election",16115
+"596238912","2017-05-23 01:27:25","Complete","News","Male","65+","US-WEST-MT-Billings",0.8067132,"Republican Greg Gianforte",15971
+"598075630","2017-05-23 07:05:06","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"I am not likely to vote in this election",4166
+"601763379","2017-05-22 05:37:05","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",7114
+"602094453","2017-05-23 04:34:09","Complete","News","Male","45-54","US-WEST-MT-Kalispell",0.9459779,"I am not likely to vote in this election",38021
+"607031813","2017-05-22 15:18:40","Complete","News","Male","25-34","US-WEST-MT-Kalispell",1.0884159,"I am not likely to vote in this election",8432
+"609105770","2017-05-22 13:57:11","Complete","News","Male","Unknown","US-WEST-MT-Missoula",0,"Democrat Rob Quist",1572
+"609494377","2017-05-22 11:21:47","Complete","News","Unknown","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",8404
+"611215795","2017-05-21 09:37:26","Complete","News","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Democrat Rob Quist",7626
+"614533917","2017-05-21 10:58:44","Complete","Mobile App","Female","45-54","US-WEST-MT",1.045264,"I am not likely to vote in this election",8778
+"623826606","2017-05-23 02:50:39","Complete","News","Female","35-44","US-WEST-MT-Helena",1.0164077,"Democrat Rob Quist",14101
+"624329736","2017-05-22 05:00:11","Complete","News","Female","18-24","US-WEST-MT",1.2314484,"Democrat Rob Quist",9970
+"626066345","2017-05-22 02:11:29","Complete","News","Female","45-54","US-WEST-MT-Glendive",1.045264,"I am not likely to vote in this election",4266
+"628192733","2017-05-22 03:25:59","Complete","News","Female","65+","US-WEST-MT-Bozeman",0.8913826,"Democrat Rob Quist",8386
+"628340770","2017-05-21 11:10:56","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"I am not likely to vote in this election",10792
+"632401913","2017-05-21 10:51:50","Complete","Mobile App","Male","35-44","US-WEST-MT-Missoula",0.9198625,"Democrat Rob Quist",20953
+"638323551","2017-05-22 13:55:15","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"Democrat Rob Quist",7963
+"640234967","2017-05-21 11:10:45","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"I am not likely to vote in this election",4668
+"642957352","2017-05-22 16:33:34","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Democrat Rob Quist",7761
+"647635053","2017-05-23 01:12:48","Complete","News","Male","45-54","US-WEST-MT-Helena",0.9459779,"Republican Greg Gianforte",24316
+"648153090","2017-05-23 07:14:02","Complete","News","Male","65+","US-WEST-MT-Great Falls",0.8067132,"Democrat Rob Quist",9681
+"648830618","2017-05-22 17:54:11","Complete","News","Female","35-44","US-WEST-MT",1.0164077,"I am not likely to vote in this election",5958
+"652309857","2017-05-22 22:41:56","Complete","News","Male","65+","US-WEST-MT-Missoula",0.8067132,"Democrat Rob Quist",8185
+"66373874","2017-05-23 00:56:53","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",8535
+"669829263","2017-05-22 00:48:04","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",23065
+"673592428","2017-05-21 17:10:27","Complete","News","Male","65+","US-WEST-MT",0.8067132,"I am not likely to vote in this election",29843
+"674385338","2017-05-22 22:17:12","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Republican Greg Gianforte",6882
+"678447968","2017-05-23 10:39:09","Complete","News","Male","25-34","US-WEST-MT-Butte",1.0884159,"Republican Greg Gianforte",19129
+"679545270","2017-05-21 13:08:55","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",14611
+"682014788","2017-05-21 08:42:56","Complete","News","Female","45-54","US-WEST-MT-Butte",1.045264,"Democrat Rob Quist",10187
+"684795650","2017-05-23 04:49:38","Complete","News","Male","45-54","US-WEST-MT-Kalispell",0.9459779,"Democrat Rob Quist",11519
+"689141110","2017-05-21 14:00:25","Complete","Mobile App","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",15702
+"689270818","2017-05-21 14:11:42","Complete","Mobile App","Male","65+","US-WEST-MT-Great Falls",0.8067132,"I am not likely to vote in this election",38441
+"690770330","2017-05-22 21:56:50","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"Libertarian Mark Wicks",10361
+"690885102","2017-05-23 08:32:23","Complete","Mobile App","Male","25-34","US-WEST-MT-Kalispell",1.0884159,"Democrat Rob Quist",20735
+"693723627","2017-05-22 01:46:47","Complete","News","Male","35-44","US-WEST-MT-Bozeman",0.9198625,"I am not likely to vote in this election",5468
+"701203554","2017-05-23 00:32:18","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",4157
+"707313707","2017-05-21 10:51:02","Complete","Mobile App","Female","18-24","US-WEST-MT-Havre",1.2314484,"Republican Greg Gianforte",8398
+"711639407","2017-05-21 14:29:09","Complete","News","Female","18-24","US-WEST-MT-Bozeman",1.2314484,"Democrat Rob Quist",3693
+"71622722","2017-05-22 21:16:21","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"Republican Greg Gianforte",50885
+"717678704","2017-05-21 10:51:01","Complete","Mobile App","Male","45-54","US-WEST-MT",0.9459779,"Democrat Rob Quist",4996
+"721313245","2017-05-23 04:50:36","Complete","News","Female","65+","US-WEST-MT-Billings",0.8913826,"Republican Greg Gianforte",12037
+"721955599","2017-05-21 12:14:14","Complete","News","Female","25-34","US-WEST-MT-Missoula",1.2026517,"Democrat Rob Quist",22168
+"723460696","2017-05-22 04:32:47","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",59230
+"723617323","2017-05-21 12:03:22","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Republican Greg Gianforte",13826
+"728906598","2017-05-22 12:28:47","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"Republican Greg Gianforte",11867
+"734923837","2017-05-22 20:58:29","Complete","News","Male","35-44","US-WEST-MT-Billings",0.9198625,"I am not likely to vote in this election",7485
+"736725105","2017-05-21 11:13:25","Complete","News","Female","65+","US-WEST-MT-Billings",0.8913826,"Republican Greg Gianforte",24952
+"737825404","2017-05-23 10:39:54","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",13699
+"740241126","2017-05-22 16:06:59","Complete","News","Male","35-44","US-WEST-MT-Roundup",0.9198625,"Republican Greg Gianforte",7729
+"740353998","2017-05-21 11:44:05","Complete","News","Male","65+","US-WEST-MT-Bozeman",0.8067132,"Democrat Rob Quist",15845
+"755023208","2017-05-22 17:46:09","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",8812
+"755392338","2017-05-21 12:09:42","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Democrat Rob Quist",21909
+"760121838","2017-05-22 12:57:23","Complete","News","Female","45-54","US-WEST-MT-Billings",1.045264,"Republican Greg Gianforte",8020
+"760658238","2017-05-22 15:47:40","Complete","News","Female","65+","US-WEST-MT-Missoula",0.8913826,"I am not likely to vote in this election",13822
+"763854868","2017-05-22 01:44:35","Complete","News","Male","35-44","US-WEST-MT-Glendive",0.9198625,"I am not likely to vote in this election",14299
+"768019383","2017-05-21 10:31:44","Complete","Mobile App","Male","55-64","US-WEST-MT-Billings",0.8816528,"I am not likely to vote in this election",34075
+"771468315","2017-05-22 01:06:21","Complete","News","Male","55-64","US-WEST-MT",0.8816528,"I am not likely to vote in this election",15067
+"771681113","2017-05-21 08:51:30","Complete","News","Female","55-64","US-WEST-MT-Billings",0.9741876,"Democrat Rob Quist",23479
+"773821920","2017-05-23 09:09:01","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"I am not likely to vote in this election",7460
+"774835071","2017-05-22 00:05:29","Complete","News","Female","45-54","US-WEST-MT-Bozeman",1.045264,"I am not likely to vote in this election",15491
+"782825860","2017-05-22 20:03:23","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Republican Greg Gianforte",7663
+"788208565","2017-05-21 09:10:25","Complete","News","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Democrat Rob Quist",8793
+"789552056","2017-05-21 16:07:18","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",10671
+"789630992","2017-05-22 02:21:05","Complete","News","Male","18-24","US-WEST-MT-Bozeman",1.1144773,"Democrat Rob Quist",3143
+"793662209","2017-05-22 14:31:09","Complete","News","Female","18-24","US-WEST-MT-Missoula",1.2314484,"Democrat Rob Quist",8149
+"79892871","2017-05-21 17:19:32","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Republican Greg Gianforte",20413
+"805050939","2017-05-21 21:13:12","Complete","News","Female","45-54","US-WEST-MT-Bozeman",1.045264,"Democrat Rob Quist",14411
+"806235211","2017-05-22 15:35:43","Complete","News","Female","65+","US-WEST-MT",0.8913826,"I am not likely to vote in this election",101260
+"809753922","2017-05-21 10:11:50","Complete","News","Unknown","Unknown","US-WEST-MT-Butte",0,"I am not likely to vote in this election",3689
+"811509","2017-05-23 07:06:05","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Democrat Rob Quist",15975
+"820423554","2017-05-22 15:29:28","Complete","News","Unknown","Unknown","US-WEST-MT-Helena",0,"Democrat Rob Quist",21226
+"820867116","2017-05-21 13:57:13","Complete","News","Unknown","Unknown","US-WEST-MT-Glendive",0,"I am not likely to vote in this election",3820
+"82094664","2017-05-21 15:38:08","Complete","News","Female","45-54","US-WEST-MT",1.045264,"Democrat Rob Quist",13402
+"821295976","2017-05-22 04:07:57","Complete","News","Male","45-54","US-WEST-MT-Glendive",0.9459779,"Republican Greg Gianforte",16300
+"833321541","2017-05-22 20:43:36","Complete","News","Unknown","Unknown","US-WEST-MT-Billings",0,"Democrat Rob Quist",26960
+"841772968","2017-05-23 07:33:46","Complete","News","Female","Unknown","US-WEST-MT",0,"I am not likely to vote in this election",10288
+"842575041","2017-05-23 04:42:04","Complete","News","Male","65+","US-WEST-MT",0.8067132,"Republican Greg Gianforte",14224
+"842583266","2017-05-22 04:03:44","Complete","News","Female","25-34","US-WEST-MT-Missoula",1.2026517,"Democrat Rob Quist",6023
+"843249790","2017-05-22 09:14:23","Complete","News","Male","45-54","US-WEST-MT-Bozeman",0.9459779,"Republican Greg Gianforte",11615
+"846161878","2017-05-22 17:05:58","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Democrat Rob Quist",7403
+"854225962","2017-05-22 12:25:39","Complete","News","Male","25-34","US-WEST-MT-Bozeman",1.0884159,"Republican Greg Gianforte",31694
+"856328656","2017-05-23 02:59:38","Complete","News","Female","55-64","US-WEST-MT",0.9741876,"Republican Greg Gianforte",6788
+"857675413","2017-05-21 15:12:09","Complete","Mobile App","Male","25-34","US-WEST-MT-Havre",1.0884159,"Democrat Rob Quist",9899
+"86241","2017-05-23 00:57:33","Complete","News","Female","35-44","US-WEST-MT-Helena",1.0164077,"I am not likely to vote in this election",4868
+"863710469","2017-05-22 03:49:26","Complete","News","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"I am not likely to vote in this election",19399
+"864107507","2017-05-21 09:42:01","Complete","News","Male","55-64","US-WEST-MT-Missoula",0.8816528,"Democrat Rob Quist",15135
+"864361371","2017-05-23 10:03:42","Complete","News","Male","45-54","US-WEST-MT-Billings",0.9459779,"I am not likely to vote in this election",6403
+"87702825","2017-05-21 08:31:01","Complete","News","Female","35-44","US-WEST-MT-Bozeman",1.0164077,"Democrat Rob Quist",11991
+"877962835","2017-05-23 08:07:56","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"I am not likely to vote in this election",3176
+"882474374","2017-05-21 10:51:30","Complete","Mobile App","Male","55-64","US-WEST-MT",0.8816528,"Republican Greg Gianforte",9646
+"883137077","2017-05-23 09:08:33","Complete","News","Unknown","Unknown","US-WEST-MT-Great Falls",0,"Libertarian Mark Wicks",80114
+"883957270","2017-05-23 10:05:18","Complete","News","Male","55-64","US-WEST-MT-Billings",0.8816528,"Libertarian Mark Wicks",19482
+"886682080","2017-05-21 10:51:12","Complete","Mobile App","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",12959
+"89085713","2017-05-21 11:43:45","Complete","News","Male","18-24","US-WEST-MT",1.1144773,"Republican Greg Gianforte",22636
+"893361615","2017-05-21 18:50:27","Complete","Mobile App","Female","35-44","US-WEST-MT-Helena",1.0164077,"Libertarian Mark Wicks",8970
+"896338210","2017-05-21 07:22:38","Complete","News","Female","25-34","US-WEST-MT-Billings",1.2026517,"I am not likely to vote in this election",10500
+"898438460","2017-05-23 11:01:10","Complete","News","Male","55-64","US-WEST-MT-Helena",0.8816528,"Republican Greg Gianforte",11010
+"907085038","2017-05-21 13:07:45","Complete","News","Male","65+","US-WEST-MT-Bozeman",0.8067132,"Democrat Rob Quist",16401
+"909355948","2017-05-21 12:45:30","Complete","News","Male","55-64","US-WEST-MT-Miles City",0.8816528,"Democrat Rob Quist",5178
+"922129318","2017-05-22 01:48:26","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Republican Greg Gianforte",8275
+"923928416","2017-05-21 14:53:44","Complete","News","Female","45-54","US-WEST-MT-Bozeman",1.045264,"Republican Greg Gianforte",13187
+"929100949","2017-05-21 12:34:16","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"I am not likely to vote in this election",15623
+"930399513","2017-05-22 08:00:50","Complete","News","Female","65+","US-WEST-MT-Billings",0.8913826,"Democrat Rob Quist",9985
+"946265046","2017-05-21 14:58:44","Complete","News","Male","65+","US-WEST-MT-Helena",0.8067132,"Republican Greg Gianforte",7560
+"946833381","2017-05-22 04:52:42","Complete","News","Female","65+","US-WEST-MT",0.8913826,"Libertarian Mark Wicks",19048
+"946872347","2017-05-21 16:40:04","Complete","Mobile App","Female","25-34","US-WEST-MT-Great Falls",1.2026517,"Democrat Rob Quist",14725
+"948695022","2017-05-22 22:33:00","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Democrat Rob Quist",7059
+"951367668","2017-05-22 18:10:54","Complete","News","Female","45-54","US-WEST-MT-Helena",1.045264,"I am not likely to vote in this election",8811
+"954995779","2017-05-21 21:33:59","Complete","News","Male","25-34","US-WEST-MT-Billings",1.0884159,"Democrat Rob Quist",8126
+"956403208","2017-05-22 21:19:11","Complete","News","Female","65+","US-WEST-MT-Great Falls",0.8913826,"Democrat Rob Quist",16637
+"959483942","2017-05-21 14:31:27","Complete","Mobile App","Male","25-34","US-WEST-MT-Great Falls",1.0884159,"Republican Greg Gianforte",12506
+"960142224","2017-05-22 05:14:19","Complete","News","Male","45-54","US-WEST-MT-Kalispell",0.9459779,"Democrat Rob Quist",5714
+"964067594","2017-05-22 09:19:51","Complete","News","Unknown","Unknown","US-WEST-MT",0,"Democrat Rob Quist",17083
+"97051053","2017-05-22 15:29:15","Complete","News","Male","45-54","US-WEST-MT-Bozeman",0.9459779,"Republican Greg Gianforte",15845
+"983244672","2017-05-22 15:44:30","Complete","News","Male","35-44","US-WEST-MT-Butte",0.9198625,"Democrat Rob Quist",4828
+"98518663","2017-05-21 12:15:20","Complete","News","Male","45-54","US-WEST-MT-Missoula",0.9459779,"Republican Greg Gianforte",18083
+"99594488","2017-05-22 20:20:37","Complete","News","Female","45-54","US-WEST-MT-Butte",1.045264,"Democrat Rob Quist",17740
+"99732883","2017-05-21 17:08:46","Complete","News","Male","25-34","US-WEST-MT",1.0884159,"I am not likely to vote in this election",12904
+"999300640","2017-05-21 10:31:19","Complete","Mobile App","Female","35-44","US-WEST-MT-Missoula",1.0164077,"Republican Greg Gianforte",18944
+"999655926","2017-05-22 17:51:46","Complete","News","Male","35-44","US-WEST-MT",0.9198625,"Republican Greg Gianforte",9908
